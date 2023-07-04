@@ -13,19 +13,29 @@ Thanks for using my Tool💝
 [Termux] :--
 
 $ cd 
+
 $ rm -rf RASHED-X
+
 $ git clone https://github.com/Rashed76656/RASHED-X.git
+
 $ cd RASHED-X/
+
 $ ls
+
  
  
 [Linux] :--
  
-$ cd 
+$ cd
+
 $ rm -rf RASHED-X
+
 $ git clone https://github.com/Rashed76656/RASHED-X.git
+
 $ cd RASHED-X/
+
 $ ls
+
 
 
 ★_____Run_____★
@@ -33,7 +43,9 @@ $ ls
 [Termux] :--
 
 $ python RASHED-X.py
+
  
 Done✅
+
 
 This Tool is totally free, Don’t buy from anyone. Report scam facebook 
